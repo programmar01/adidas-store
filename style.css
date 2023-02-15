@@ -1,0 +1,22 @@
+body{
+    background: url(https://wallpapers.com/images/hd/hardcore-adidas-quote-1m0nzlqck73ygvlz.jpg) no-repeat;
+    background-size: cover;
+}
+
+.box{
+    width: 350px;
+    background: rgba(255, 200, 0, 0.5);
+    padding: 40px;
+    margin: auto;
+    text-align: center;
+    display: inline-block;
+}
+
+div img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+.b{
+    margin: 100px 20px 20px 60px
+}
